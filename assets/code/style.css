@@ -17,9 +17,6 @@
 .header h1 .seo {
     color: #d9dcd6;
 }
-body {
-    background-color: #d9dcd6;
-}
 /* Cleaned up all redundant code */
 .header div {
     padding-top: 15px;
@@ -36,6 +33,9 @@ body {
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
+}
+body {
+    background-color: #d9dcd6;
 }
 
 a {
